@@ -11,3 +11,8 @@ This is an AI-powered chatbot that helps customers order ice cream. It guides us
 ## Tech Stack  
 - Python  
 - OpenAI API
+
+## Screenshots of the bot
+
+<img width="605" alt="Screenshot 2025-02-18 at 9 55 52 pm" src="https://github.com/user-attachments/assets/114cd2ed-0961-47d2-b130-0912ce44dc68" />
+<img width="541" alt="Screenshot 2025-02-18 at 9 55 57 pm" src="https://github.com/user-attachments/assets/824b61ed-45cd-4c7c-aee2-f9e6a1077fa2" />
